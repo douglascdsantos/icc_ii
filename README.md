@@ -11,6 +11,9 @@ Repositório das atividades feitas durante a disciplina de Introdução à Ciên
 ### Aula 3 - Funções: definição, retorno de valores, passagem de parâmetros
 - [Notebook do colab →](https://github.com/douglascdsantos/unesp_icc_ii/blob/main/notebooks/Lista_de_Exerc%C3%ADcios_03.ipynb)
 
+### Aula 4 - Funções: parâmetros opcionais, escopo de variáveis e verificação de tipos
+- [Notebook do colab →](https://github.com/douglascdsantos/unesp_icc_ii/blob/main/notebooks/Lista_de_Exerc%C3%ADcios_04.ipynb)
+
 ## Contatos e redes sociais: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglascdsantos/)
 [![](https://img.shields.io/badge/Medium-F9AB00?style=for-the-badge&logo=medium&color=525252)](https://douglascdsantos.medium.com/)
